@@ -1,6 +1,6 @@
 name: BlockHunt
 main: BlockHunt\BlockHunt
-api: [1.12.0]
+api: [2.0.0]
 load: POSTWORLD
 description: "BlockHunt alias Hide'n'Seek plugin for everyone!"
 version: 1.0.0
